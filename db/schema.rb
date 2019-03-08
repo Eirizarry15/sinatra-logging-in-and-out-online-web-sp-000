@@ -4,7 +4,7 @@ ActiveRecord::Schema.define(version: 20160118225627) do
     t.string  "username"
     t.string  "password"
     t.decimal "balance"
-    users
+    
   end
 
 end
